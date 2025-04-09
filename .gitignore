@@ -1,14 +1,4 @@
 # Node modules
 node_modules/
 
-# Logs
-logs
-*.log
-npm-debug.log*
 
-# dotenv environment files
-.env
-
-# OS files
-.DS_Store
-Thumbs.db
